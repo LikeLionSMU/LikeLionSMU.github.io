@@ -277,4 +277,10 @@ $( document ).ready(function() {
   workSlider();
   transitionLabels();
 
+  function alert() {
+
+    alert("24일 부터 지원 가능합니다. 기다려주세요~")
+
+  }
+
 });
